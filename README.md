@@ -23,9 +23,8 @@ Em construção - Aqui seguem alguns dos projetos executados que foram concluíd
 
 ---
 
-
-
-
+## Projetos em desenvolvimento:
+* [**Análise de preços de medicamentos (primeiros passos e alguns testes)**](https://colab.research.google.com/drive/1mI8wkcCAPgIb-6en-Rh-FBZX6Cl0YvU4?usp=sharing)
 
 
 <!--
