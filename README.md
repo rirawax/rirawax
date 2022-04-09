@@ -24,8 +24,10 @@ Em construção - Aqui seguem alguns dos projetos executados que foram concluíd
 ---
 
 ## Projetos em desenvolvimento:
+
+* [**Análise sobre Covid-19 (primeiros passos e alguns testes)**](https://colab.research.google.com/drive/1iXEGv8Zucv1E5-91AktfACsqAerWQA4W?usp=sharing)
 * [**Análise de preços de medicamentos (primeiros passos e alguns testes)**](https://colab.research.google.com/drive/1mI8wkcCAPgIb-6en-Rh-FBZX6Cl0YvU4?usp=sharing)
-* [**Análise sobre Covid-19 (primeiros passos e alguns testes)**]
+
 
 <!--
 **rirawax/rirawax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
