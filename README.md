@@ -20,12 +20,12 @@ Em construção - Aqui seguem alguns dos projetos executados que foram concluíd
 
 * [**Análise de Dados Airbnb (Rio de Janeiro)**](https://colab.research.google.com/drive/13hnJNti1lUheVybzquj9R7YZmc0aU2cb?usp=sharing)
 * [**Trabalho sobre Probabilidades, Amostragem e Estimações**](https://colab.research.google.com/drive/1powtDisc5jCnaBgHDkPOi4aqLg2ffMmx?usp=sharing)
+* [**Análise sobre Covid-19 (primeiros passos e alguns testes)**](https://colab.research.google.com/drive/1iXEGv8Zucv1E5-91AktfACsqAerWQA4W?usp=sharing)
 
 ---
 
 ## Projetos em desenvolvimento:
 
-* [**Análise sobre Covid-19 (primeiros passos e alguns testes)**](https://colab.research.google.com/drive/1iXEGv8Zucv1E5-91AktfACsqAerWQA4W?usp=sharing)
 * [**Análise de preços de medicamentos (primeiros passos e alguns testes)**](https://colab.research.google.com/drive/1mI8wkcCAPgIb-6en-Rh-FBZX6Cl0YvU4?usp=sharing)
 
 
